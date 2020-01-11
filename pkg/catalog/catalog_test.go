@@ -2,7 +2,7 @@ package catalog
 
 import (
 	"fmt"
-	"github.com/nikogura/dbt/pkg/dbt"
+	"github.com/onbeep/dbt/pkg/dbt"
 	"github.com/phayes/freeport"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"

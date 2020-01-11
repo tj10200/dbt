@@ -2,7 +2,7 @@ package catalog
 
 import (
 	"fmt"
-	"github.com/nikogura/dbt/pkg/dbt"
+	"github.com/onbeep/dbt/pkg/dbt"
 	"github.com/pkg/errors"
 	"golang.org/x/net/html"
 	"io/ioutil"

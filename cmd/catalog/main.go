@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/nikogura/dbt/cmd/catalog/cmd"
+import "github.com/onbeep/dbt/cmd/catalog/cmd"
 
 func main() {
 	cmd.Execute()

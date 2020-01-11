@@ -2,7 +2,7 @@ package catalog
 
 import (
 	"fmt"
-	"github.com/nikogura/dbt/pkg/dbt"
+	"github.com/onbeep/dbt/pkg/dbt"
 )
 
 func testDbtConfig(port int) dbt.Config {

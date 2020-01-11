@@ -16,7 +16,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/nikogura/dbt/pkg/catalog"
+	"github.com/onbeep/dbt/pkg/catalog"
 	"github.com/spf13/cobra"
 	"os"
 )

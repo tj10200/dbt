@@ -1,4 +1,4 @@
-module github.com/nikogura/dbt
+module github.com/onbeep/dbt
 
 require (
 	github.com/davecgh/go-spew v1.1.1

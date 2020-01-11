@@ -15,7 +15,7 @@
 package cmd
 
 import (
-	"github.com/nikogura/dbt/pkg/boilerplate"
+	"github.com/onbeep/dbt/pkg/boilerplate"
 	"github.com/spf13/cobra"
 	"log"
 )

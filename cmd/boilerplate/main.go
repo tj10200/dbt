@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/nikogura/dbt/cmd/boilerplate/cmd"
+import "github.com/onbeep/dbt/cmd/boilerplate/cmd"
 
 func main() {
 	cmd.Execute()

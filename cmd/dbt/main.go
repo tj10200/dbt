@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nikogura/dbt/cmd"
+import "github.com/onbeep/dbt/cmd"
 
 func main() {
 	cmd.Execute()
