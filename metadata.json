@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
   "package": "github.com/onbeep/dbt",
+  "version": "3.0.1",
   "description": "Dynamic Binary Toolkit - A framework for running self-updating signed binaries from a central, trusted repository.",
   "repository": "https://tools.orionlabs.io/artifactory/dbt",
   "building": {
