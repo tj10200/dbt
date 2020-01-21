@@ -97,6 +97,8 @@
         "sig": true,
         "checksums": true
       }
-    ]
+    ],
+    "usernamefunc": "echo -n $PUBLISH_USERNAME",
+    "passwordfunc": "echo -n $PUBLISH_PASSWORD"
   }
 }
