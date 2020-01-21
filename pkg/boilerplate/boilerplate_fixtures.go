@@ -52,7 +52,7 @@ func metadataContentsExample() string {
   },
   "signing": {
     "program": "gpg",
-    "email": "you@yourmail.com"
+    "email": "obci@orionlabs.io"
 
   },
   "publishing": {
