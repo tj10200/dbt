@@ -35,6 +35,10 @@
       }
     ]
   },
+  "signing": {
+    "program": "gpg",
+    "email": "obci@orionlabs.io"
+  },
   "publishing": {
     "targets": [
       {
